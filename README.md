@@ -1,2 +1,6 @@
 # Its an asteroid shooter game
-WIP
+## Motivation
+## Quick Start
+## Usage
+## Contributing
+
